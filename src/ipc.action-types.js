@@ -1,0 +1,5 @@
+exports.IPC_ACTION_TYPES = {
+  PING: 'PING',
+  PONG: 'PONG',
+  GET_THEME: 'GET_THEME'
+};
